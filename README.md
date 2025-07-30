@@ -5,7 +5,7 @@ I am Jervis, a software developer with experience developing mobile apps in Java
 Currently, my aim is to create cross-platform tools and add-ons 📦 to modularise core services such as Payment, Search and Security. 
 
 - I'm currently working on add-on modules (SDKs) for all platforms 
-- I'm currently learning about Payment based SDKs
+- I'm currently learning about Payment SDKs
 - I'm looking to incoporate intelligent features and predictive capabilities to the modules in the near future
 
 ## 🛠️ Tech Stack
