@@ -30,6 +30,7 @@ Currently, my aim is to create cross-platform tools and add-ons 📦 to modulari
   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" style="margin-right: 10px;"/>
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence" style="margin-right: 10px;"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-5500DC?style=for-the-badge&logo=jetpack-compose&logoColor=white" alt="Jetpack Compose"/>
 </p>
 
 ## 📊 Github Stats :
