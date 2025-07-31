@@ -1,8 +1,8 @@
 ## Hi there 👋 
-I am Jervis, a software developer with experience developing mobile apps in Java & Kotlin 🤖. Beyond native development, I have expanded into full-stack web 🖥️developement with React.js/Node.js stack and created cross platform apps with Flutter. 
+I am Jervis, a software developer with experience developing mobile apps in Java & Kotlin 🤖. Beyond native development, I have expanded into full-stack web 🖥️developement with React.js/Node.js stack and cross platform apps with Flutter. 
 
 
-Currently, my aim is to create cross-platform tools and add-ons 📦 to modularise core services such as Payment, Search and Security. 
+Currently, my aim is to create tools and add-ons 📦 to modularise core services such as Payment, Search and Security. 
 
 - I'm currently working on add-on modules (SDKs) for all platforms 
 - I'm currently learning about Payment SDKs
